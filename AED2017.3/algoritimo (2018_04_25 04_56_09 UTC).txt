@@ -1,0 +1,112 @@
+#n + 3
+AlgoritmoQualquer(Inteiro n)
+{
+    entrada
+
+    atribuicao
+
+    para (i recebe 0; i menor n; incrementa i)
+        comparacao
+
+    operacao_aritmetica
+}
+
+#2n - 2
+AlgoritmoQualquer(Inteiro n)
+{
+    atribuicao
+    para (i recebe n-2; 
+          i maior ou igual a 1; 
+          decrementa i)
+        operacao_aritmetica
+    
+    saída
+
+    para (i recebe 0; 
+          i menor n; 
+          incrementa i)
+        comparação
+
+    para (i recebe 0; 
+          i menor 6; 
+          incrementa i)
+        atribuicao
+}
+
+#n/4
+AlgoritmoQualquer(Inteiro n)
+{
+    entrada
+
+    para (i recebe n; 
+          i maior ou igual a 1; 
+          i recebe i-4)
+        operacao_aritmetica
+    
+    saída
+}
+
+#n log (n)
+AlgoritmoQualquer(Inteiro n)
+{
+    atribuicao
+
+    para (i recebe 0; 
+          i menor n; 
+          incrementa i)
+                
+        função(i)
+    
+    saida
+}
+
+#n3 + 10n
+AlgoritmoQualquer(Inteiro n)
+{
+    entrada
+
+    para (i recebe 0; i menor que n; 
+          incrementa i)        
+        para (j recebe 0; j menor que n;
+              incrementa j)
+            para (k recebe 0; k menor que n;
+                  incrementa k)
+                comparação
+
+    operacao_aritmetica
+            
+    para (i recebe 0; i menor que n;
+          incrementa i)
+        para (j recebe 10; j maior ou igual a 1;
+              decrementa j)
+            atribuicao
+}
+    entrada
+
+    para (i recebe 0; 
+          i menor que n; 
+          incrementa i)        
+        para (j recebe n-1;
+              j maior ou igual a 1;
+              j recebe j/2)
+            operacao_aritmética
+        
+    
+    operacao_aritmetica   
+    saída
+}
+
+#n log (n)
+AlgoritmoQualquer(Inteiro n)
+{
+    atribuicao
+
+    para (i recebe n-1; 
+          i maior ou igual a 1; 
+          i recebe i/2)
+        operacao_aritmetica
+    
+    saída
+}
+
+#n 2 -N
